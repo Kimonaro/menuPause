@@ -1,52 +1,49 @@
 fileFormatVersion: 2
-guid: 91023752de174ef4aa738a164ca8ffc2
+guid: 31d53e3b10e2eda42b36b5b61a75c8d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1075914435163556026
-    second: Interface windows_0
+      213: -4197023622967946776
+    second: FrameMap_0
   - first:
-      213: 6272799835004449078
-    second: Interface windows_1
+      213: -7644670983201256514
+    second: FrameMap_1
   - first:
-      213: 5442010213146667433
-    second: Interface windows_2
+      213: 7424120768775938192
+    second: FrameMap_2
   - first:
-      213: 9078790117441612056
-    second: Interface windows_3
+      213: -560173891099753290
+    second: FrameMap_3
   - first:
-      213: 9079613762718912693
-    second: Interface windows_4
+      213: -1600339322230750160
+    second: FrameMap_4
   - first:
-      213: -2162925168860653028
-    second: Interface windows_5
+      213: 1663717616174915691
+    second: FrameMap_5
   - first:
-      213: -1680523125302840098
-    second: Interface windows_6
+      213: -8746012688442918989
+    second: FrameMap_6
   - first:
-      213: 389435512943239862
-    second: Interface windows_7
+      213: 8936236313897758982
+    second: FrameMap_7
   - first:
-      213: -7204245417482000545
-    second: Interface windows_8
+      213: -1546986900907264952
+    second: FrameMap_8
   - first:
-      213: -5081789679511295578
-    second: Interface windows_9
+      213: 5405018342399797936
+    second: FrameMap_9
   - first:
-      213: 7851677635517676471
-    second: Interface windows_10
+      213: -9107297383489246516
+    second: FrameMap_10
   - first:
-      213: 4241660325199427701
-    second: Interface windows_11
+      213: 4854287038331859883
+    second: FrameMap_11
   - first:
-      213: -2828940007296014082
-    second: Interface windows_12
+      213: 1753796473934010370
+    second: FrameMap_12
   - first:
-      213: 3427559307316122834
-    second: Interface windows_13
-  - first:
-      213: -7503124653026697962
-    second: Interface windows_14
+      213: -6561269754702965356
+    second: FrameMap_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -79,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -168,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Interface windows_0
+      name: FrameMap_0
       rect:
         serializedVersion: 2
-        x: 219
-        y: 822
-        width: 243
-        height: 299
+        x: 0
+        y: 159
+        width: 97
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6477c5b85859111f0800000000000000
-      internalID: -1075914435163556026
+      spriteID: 8e1921f604d21c5c0800000000000000
+      internalID: -4197023622967946776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_1
+      name: FrameMap_1
       rect:
         serializedVersion: 2
-        x: 498
-        y: 823
-        width: 241
-        height: 298
+        x: 95
+        y: 191
+        width: 31
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 631b19817367d0750800000000000000
-      internalID: 6272799835004449078
+      spriteID: ebb8d857e3ca8e590800000000000000
+      internalID: -7644670983201256514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_2
+      name: FrameMap_2
       rect:
         serializedVersion: 2
-        x: 779
-        y: 823
-        width: 242
-        height: 298
+        x: 127
+        y: 223
+        width: 19
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a9a7a2b477e58b40800000000000000
-      internalID: 5442010213146667433
+      spriteID: 0906d782186c70760800000000000000
+      internalID: 7424120768775938192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_3
+      name: FrameMap_3
       rect:
         serializedVersion: 2
-        x: 1062
-        y: 822
-        width: 237
-        height: 299
+        x: 174
+        y: 0
+        width: 114
+        height: 288
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8192f64a2875efd70800000000000000
-      internalID: 9078790117441612056
+      spriteID: 6b40d8060dcd938f0800000000000000
+      internalID: -560173891099753290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_4
+      name: FrameMap_4
       rect:
         serializedVersion: 2
-        x: 1342
-        y: 822
-        width: 237
-        height: 299
+        x: 111
+        y: 159
+        width: 34
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b0db908c94410e70800000000000000
-      internalID: 9079613762718912693
+      spriteID: 034c85a8dd37ac9e0800000000000000
+      internalID: -1600339322230750160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_5
+      name: FrameMap_5
       rect:
         serializedVersion: 2
-        x: 222
-        y: 502
-        width: 237
-        height: 300
+        x: 127
+        y: 175
+        width: 82
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1a1f42c40fbbf1e0800000000000000
-      internalID: -2162925168860653028
+      spriteID: b606aae6b56b61710800000000000000
+      internalID: 1663717616174915691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_6
+      name: FrameMap_6
       rect:
         serializedVersion: 2
-        x: 502
-        y: 502
-        width: 317
-        height: 300
+        x: 4
+        y: 131
+        width: 24
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed4be7f0f159da8e0800000000000000
-      internalID: -1680523125302840098
+      spriteID: 3b7fc485ccbef9680800000000000000
+      internalID: -8746012688442918989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_7
+      name: FrameMap_7
       rect:
         serializedVersion: 2
-        x: 862
-        y: 518
-        width: 317
-        height: 284
+        x: 32
+        y: 131
+        width: 96
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b267e3298d876500800000000000000
-      internalID: 389435512943239862
+      spriteID: 60172dec493e30c70800000000000000
+      internalID: 8936236313897758982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_8
+      name: FrameMap_8
       rect:
         serializedVersion: 2
-        x: 1222
-        y: 502
-        width: 357
-        height: 300
+        x: 128
+        y: 131
+        width: 64
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,20 +356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f57ef3866f0650c90800000000000000
-      internalID: -7204245417482000545
+      spriteID: 8447d332c9ff78ae0800000000000000
+      internalID: -1546986900907264952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_9
+      name: FrameMap_9
       rect:
         serializedVersion: 2
-        x: 222
-        y: 193
-        width: 201
-        height: 274
+        x: 0
+        y: 35
+        width: 96
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,20 +378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a9ab71063bd979b0800000000000000
-      internalID: -5081789679511295578
+      spriteID: 0bae53f9b8b720b40800000000000000
+      internalID: 5405018342399797936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_10
+      name: FrameMap_10
       rect:
         serializedVersion: 2
-        x: 464
-        y: 293
-        width: 259
-        height: 174
+        x: 96
+        y: 95
+        width: 96
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,20 +400,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bbf8e3a533c6fc60800000000000000
-      internalID: 7851677635517676471
+      spriteID: cca674148416c9180800000000000000
+      internalID: -9107297383489246516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_11
+      name: FrameMap_11
       rect:
         serializedVersion: 2
-        x: 769
-        y: 166
-        width: 238
-        height: 300
+        x: 96
+        y: 35
+        width: 96
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,20 +422,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 578316da7976dda30800000000000000
-      internalID: 4241660325199427701
+      spriteID: ba3bd8d9754ed5340800000000000000
+      internalID: 4854287038331859883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_12
+      name: FrameMap_12
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 167
-        width: 259
-        height: 300
+        x: 0
+        y: 0
+        width: 96
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +444,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef8ea3e3d069db8d0800000000000000
-      internalID: -2828940007296014082
+      spriteID: 2085b2dd99cb65810800000000000000
+      internalID: 1753796473934010370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interface windows_13
+      name: FrameMap_13
       rect:
         serializedVersion: 2
-        x: 1338
-        y: 238
-        width: 243
-        height: 229
+        x: 96
+        y: 0
+        width: 96
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,30 +466,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d4592fa703219f20800000000000000
-      internalID: 3427559307316122834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Interface windows_14
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 59
-        width: 259
-        height: 223
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61d1ede91eb8fd790800000000000000
-      internalID: -7503124653026697962
+      spriteID: 4955a63dbefa1f4a0800000000000000
+      internalID: -6561269754702965356
       vertices: []
       indices: 
       edges: []
@@ -510,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrameMap_0: -4197023622967946776
+      FrameMap_1: -7644670983201256514
+      FrameMap_10: -9107297383489246516
+      FrameMap_11: 4854287038331859883
+      FrameMap_12: 1753796473934010370
+      FrameMap_13: -6561269754702965356
+      FrameMap_2: 7424120768775938192
+      FrameMap_3: -560173891099753290
+      FrameMap_4: -1600339322230750160
+      FrameMap_5: 1663717616174915691
+      FrameMap_6: -8746012688442918989
+      FrameMap_7: 8936236313897758982
+      FrameMap_8: -1546986900907264952
+      FrameMap_9: 5405018342399797936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
