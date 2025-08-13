@@ -12,7 +12,7 @@ public class ControleDeAudio : MonoBehaviour
     public Slider volumeSlider;
     public Slider volumeSFXSlider;
     public Toggle toggleMusica;
-    public TextMeshPro textoMusica;
+    public TMP_Text textoMusica;
 
     void Start()
     {
@@ -34,8 +34,8 @@ public class ControleDeAudio : MonoBehaviour
         }
         else
         {
-            textoMusica.text = "Ligado";
-            textoMusica.color = Color.green;
+            textoMusica.text = "Desligado";
+            textoMusica.color = Color.red;
         }
     }
     
