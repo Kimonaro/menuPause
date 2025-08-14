@@ -2,13 +2,13 @@ using UnityEngine;
 
 public class Jogador : Personagem
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+  
+  
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKey(KeyCode.A))
@@ -28,4 +28,14 @@ public class Jogador : Personagem
             transform.position -= new Vector3(0, getVelocidade()* Time.deltaTime, 0) ;
         }
     }
+
+    private void onCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag == "Inimigo")
+        {
+            int vidas = getVidas() - 1;
+            setVida(vidas);
+        }
+    }
+    
 }
