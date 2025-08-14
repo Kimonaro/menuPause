@@ -1,12 +1,15 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CarregarCena : MonoBehaviour
+namespace Settings.Scriptis
 {
-    public string nomeDaCena;
-
-    public void Carregar()
+    public class CarregarCena : MonoBehaviour
     {
-        SceneManager.LoadScene(nomeDaCena);
+        public string nomeDaCena;
+
+        public void Carregar()
+        {
+            SceneManager.LoadScene(nomeDaCena);
+        }
     }
 }
